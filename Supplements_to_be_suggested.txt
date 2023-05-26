@@ -1,0 +1,32 @@
+Hemoglobin deficiency
+		Foods
+		Supplement
+
+HDL
+	Foods
+	Supplement
+
+LDL
+	Foods
+	Supplement
+
+VLDL
+	Foods
+	Supplement
+
+triglycerides
+	Foods
+	Supplement
+
+Vitamin and Minerals
+	Foods
+	Supplement
+
+PCOD/PCOD
+	Food
+	Supplement
+
+Thryoid
+	Food
+	Supplement
+	
