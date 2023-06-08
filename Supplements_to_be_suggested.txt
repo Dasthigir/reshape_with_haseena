@@ -15,8 +15,10 @@ VLDL(Fatty liver)
 	Supplement: Milk thistle
 
 triglycerides
-	Foods
+	Foods: Fish is the only source, we should consume twice a week.
 	Supplement: Omega 3
+	Benefits: Omega 3 reduces triglycerides, Swellings in the body, supports join health.
+			We should consume 1 g of fatty fish oil daily.
 
 Vitamin and Minerals
 	Foods
