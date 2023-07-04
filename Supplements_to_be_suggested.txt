@@ -2,19 +2,26 @@ Hemoglobin deficiency
 		Foods : 
 		Supplement : Cherry iron 
 
+Total cholestrol : 
+	Supplements: Omega3
+	Total cholestrol/HDL should be less than 4.5, if grater then it is an indicator for heart disease.
+
 HDL
-	Foods
-	Supplement :
+	Foods: Protein foods will increase HDL
+	Supplement : Protein supplement
 
 LDL
 	Foods
 	Supplement : Garlic
+	
+	LDL/HDL indicates Paralysis
 
 VLDL(Fatty liver)
 	Foods
 	Supplement: Milk thistle
 
 triglycerides
+	Triglycerides/HDL should be less than 2 , if more it is called insuling resistance.
 	Foods: Fish is the only source, we should consume twice a week.
 	Supplement: Omega 3
 	Benefits: Omega 3 reduces triglycerides, Swellings in the body, supports join health.
