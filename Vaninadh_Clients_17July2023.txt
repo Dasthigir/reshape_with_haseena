@@ -6,22 +6,22 @@ Appaya
 	Cal Mag D : 771
 	Omega 3 :1500
 	Milk Thistle : 1769
-	Total : 9130
+	Total : 7612
 BRAMIAH
 	Issues: Sugar and High Cholestrol values
 	Protein : 3738
 	Daily : 1354
 	Omega 3 : 1500
 	Milk Thistle: 1769
-	Total : 8359
+	Total : 6842
 CH Srinvas
 	Issues: Sugar and Gastric problem
-	Protein : 3738
+	Protein : 2220
 	Daily : 1354
 	Fiber : 1024
 	Amaloki: 627
 	omrga3 : 1500
-	Total: 8240
+	Total: 6722
 
 
 
