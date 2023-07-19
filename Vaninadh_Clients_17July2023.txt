@@ -30,15 +30,30 @@ K Venkateswarlu
 	Total: 4394
 
 Veeranjaneyulu
-	Issues: Knee pains
+	Issues: Knee pains and skin Alegries
 	Suggetions: 3 Meal diet
-	Whey protein
-	Daily
-	cal mag D
-	vitamin C
+	protein: 2220
+	Daily : 1354
+	Cal mag D: 771	
+	vitamin C : 1413
+	Total: 5486
 	
+CH Srinivas Rao
+	Issues: Knee pain, Dust Alegries, High Creatin
+	Suggetions: 3 Meal diet (Avoid Chicken and Mutton for 45 days) Need to take Water with lemon, include single polish rice in less quantity.
+	protein: 2220
+	Daily : 1354
+	cal mag D : 771
+	vitamin C : 1413
+	Total: 5486
 
-
-
+Koteswar Rao
+	Issues: Severe knee pain, Cataract surgey done 2 month back still pain in eye
+	Protein: 2220
+	Daily : 1354
+	Vitamin D3: 1533
+	Cal mag D: 771
+	Total: 5876
+	
 	
 	
