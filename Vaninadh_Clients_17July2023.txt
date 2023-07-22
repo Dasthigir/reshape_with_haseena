@@ -76,8 +76,21 @@ Shareef
 	Protein:3738
 	Daily: 1354
 	Omega 3: 1500
-	Total: 6590	
+	Total: 6590
 
+22-July-2023
+P SIVA REDDY
+	AGE 45
+	Issues: Diabetic, Gastric problem, Iron defficency, High Triglycrides
+	Height: 5.9
+	Weight: 81
+	Ideal weight: 68
+	Protein: 3738
+	Daily: 1354
+	Omega 3: 1500
+	Fiber: 1024
+	Cherry Iron: 981	
+	Total: 8594
 
 
 
