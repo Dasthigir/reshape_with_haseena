@@ -37,7 +37,7 @@ PCOD/PCOD
 
 Thryoid
 	Food
-	Supplement: Naturl B, Cal Mag D or Vitamin D3, 
+	Supplement: Naturl B, Cal Mag D or Vitamin D3
 	
 Diabetes
 	Food
