@@ -75,3 +75,43 @@ Unit 1:
 	
 	Nutrional Status:
 		It is a state of
+		
+	Excersie 4: 
+		1. Good food gives all nurtients to our body for its normal functioning, 
+		
+		
+UNIT 2:
+	The MacroNutrient-1: Carbohydrates and Water
+	
+	There are around 40 essential nutrients which are grouped into 5 catogeries
+			Proteins
+			Fats
+			Vitamins
+			Minerals
+			Water (is both macro and Micro nutrient)
+			
+	Food will be processed in the body as follows
+		
+		Mouth --> Oesophagus(Tube from mouth to stomach) --> Stoamch --> Small intestine --> Large intestnine -->
+		Rectum --> Anus(Waste outlet)
+		
+		Liver and Pancreas produces bile juice for food digestion and absorbtion
+		
+		Mouth (Food chewed and mixed with saliva)
+		Stoamch : Food mixes with Degestive jucie called gastric juice (contains small amount of acid called 
+					Hydrochorlic acid) which is acidic in nature. Food gets coverted into soup. This gastric acid also
+					contais an enzyme(pepsine) which acts on protein .  Other nutrients remain unchanged chemically.
+		Small intestine: This soup will enter the small intestine where it will have have instestinal juice produced by	
+					instestine and also bile juice produced by liver and pancreatic juice produced by our pancreases.
+					These juices has enzymes to break fats, proteins into amino acids and carbs into simpler molecules(gulcose) for entering into 
+					blood stream
+		large intestine: The unabsorbed food will reach here along with water and most of the water will be absorbed
+						  here, let out water and solid waste will be eliminated from the body
+	
+	
+	Utilization of Food:
+		Metabolism: All the chemical changes takes place in the cells after the end products are absorded. which is of two
+					types 
+					Anabolism: Simple substances into complicated one
+					Catabolism: Complicated ones broken into simple ones
+		
